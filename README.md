@@ -42,7 +42,7 @@ Note: If using any Linux distro (Like Ubuntu) that has preinstalled Python, use 
 
 
 Credits:
-Adrian Rosebrock for OpenCV tutorials
-Adam Geitgey for Machine Learning Tutorials
-David Sandberg for MTCNN and inception_resnet skeletons
-David Vu for Python-Json Interactions
+1) To Adrian Rosebrock for OpenCV tutorials
+2) Adam Geitgey for Machine Learning Tutorials
+3) David Sandberg for MTCNN and inception_resnet skeletons
+4) David Vu for Python-Json Interactions
