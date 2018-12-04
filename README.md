@@ -9,6 +9,18 @@ This, while isn't the perfect way, it's an attempt to do something similar
 
 This is an implementation by me using various methods - Via Multi Threaded Cascaded Neural Networks
 
+
+---Requirements to run the program
+
+1) Numpy
+2) Tensorflow
+3) Keras and other backend
+4) Openpyxl
+4) OpenCV
+5) Opencv Contribution bindings (Needed. Install via: pip install opencv-conrtib-python)
+
+Note: If using any Linux distro (Like Ubuntu) that has preinstalled Python, use python3 instead of python to avoid NameError while using the program
+
 ---To Run the Program----
 
 1) Clone the project
