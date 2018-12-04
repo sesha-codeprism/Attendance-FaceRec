@@ -16,7 +16,8 @@ This is an implementation by me using various methods - Via Multi Threaded Casca
 3) Run Add New.py to add new persons to the dataset
 4) Open Recog.py and add your name to  names = {} (line 28) to make your name is in program's attendance register
 5) Run Recog.py to mark attendance and finalize
-6) Output is obtained as Attendance.xlsx- a read only to make sure editing is not done
+6) Output is obtained as Attendance.xlsx- a read only to make sure further editing is not done
+7) Check Attendance.xlsx for sheet name as Today's date(Like Att4, if date is 4). --Previous sheets I used for testing have also been saved and not removed. When using check for latest date. When using multiple times, a random seed is appended to Today's date (like Att42). 
 
 
 
