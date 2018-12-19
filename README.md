@@ -24,7 +24,7 @@ Note: If using any Linux distro (Like Ubuntu) that has preinstalled Python, use 
 ---To Run the Program----
 
 1) Clone the project
-2) Change the directort/file locations in Recog, Dupli and Readonly--- It's set to work with my system. IF not changed, there'll be an error: "File not found"
+2) ~~Change the directort/file locations in Recog, Dupli and Readonly--- It's set to work with my system. IF not changed, there'll be an error: "File not found"~~ Updated. You no longer need to update the links. Just run the required segment of code. Add_New and Recog do the entire work. Rest all the files are used by just the two files.
 3) Run Add New.py to add new persons to the dataset
 4) Open Recog.py and add your name to  names = {} (line 28) to make your name is in program's attendance register
 5) Run Recog.py to mark attendance and finalize
