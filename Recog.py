@@ -26,8 +26,8 @@ def camera_recog():
 
     currentDate = time.strftime("%d_%m_%y")
     names = {2: 'Sesha Sai', 3: 'Praneeth', 4: 'Madhu', 5: 'Sowmya' , 6: 'Sravya Sree', 7:'Sri Lekha'}
-    path1 = r'E:\Main\FR\z\Attendance FaceRec\Class.xlsx'
-    path2 = r'E:\Main\FR\z\Attendance FaceRec\Temp.xlsx'
+    path1 = r'Class.xlsx'
+    path2 = r'Temp.xlsx'
 
     wb1 = xl.load_workbook(filename=path1)
     ws1 = wb1.worksheets[0]
