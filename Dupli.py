@@ -1,5 +1,5 @@
 from shutil import copyfile
-src = r'E:\Main\FR\z\Attendance FaceRec\Temp.xlsx'
-dst = r'E:\Main\FR\z\Attendance FaceRec\Attendance.xlsx'
+src = r'Temp.xlsx'
+dst = r'Attendance.xlsx'
 copyfile(src, dst)
 
