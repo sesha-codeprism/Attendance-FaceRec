@@ -14,7 +14,7 @@ import numpy as np
 def main(args):
     mode = args.mode
     if(mode == "input"):
-        camera_recog()
+        create_manual_data()
     else:
         raise ValueError("Unimplemented mode")
     
